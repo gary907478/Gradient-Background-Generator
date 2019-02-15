@@ -3,7 +3,7 @@ body {
     color: rgba(0, 0, 0, .5);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: 3px;
     top: 15%;
     background: linear-gradient(to right, red, yellow);
     /* Standard syntax */
@@ -14,7 +14,7 @@ h1 {
     color: rgba(0, 0, 0, .5);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: 3px;
     width: 100%;
 }
 
